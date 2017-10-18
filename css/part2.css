@@ -1,0 +1,15 @@
+div {
+    border: none;
+    display: block;
+    height: 150px;
+    width: 250px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-color: gold;
+    padding: 8px;
+    font-family: 'Sanchez', serif;
+}
+
+.g-box {
+    background-color: rgba(105, 104, 104, 0.9);
+}

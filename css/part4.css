@@ -1,0 +1,13 @@
+div {
+    box-sizing: border-box;
+    background-color: gold;
+    border: none;
+    display: inline;
+    font-family: 'Sanchez', serif;
+    padding: 8px;
+    margin: 5px;
+}
+
+.p-box {
+    background-color: rgba(105, 104, 104, 0.9);
+}

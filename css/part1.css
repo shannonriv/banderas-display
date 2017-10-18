@@ -1,0 +1,14 @@
+div {
+    border: none;
+    box-sizing: border-box;
+    display: block;
+    margin: 10px;
+    height: 100px;
+    background-color: #686464;
+    padding: 8px;
+    font-family: 'Sanchez', serif;
+}
+
+.y-box {
+    background-color: hsl(49, 100%, 50%);
+}
