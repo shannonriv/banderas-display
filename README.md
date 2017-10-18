@@ -1,2 +1,1 @@
-# banderas-display
-Solucion clase práctica de Banderas Display
+Utilizando los conocimientos de *display*, crearemos cuatro páginas con diferentes diseños.
